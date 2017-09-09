@@ -3,3 +3,6 @@ checkpoint
 *.index
 *.meta
 __pycache__
+mwHJq8NHa4jpHgiHXmoBLg.tar
+#.floydignore#
+.ipynb_checkpoints/
